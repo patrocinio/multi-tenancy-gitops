@@ -9,8 +9,8 @@ spec:
   project: infra
   source:
     path: 3-infra/namespaces/istio-system
-    repoURL: https://github.com/<github-org>/multi-tenancy-gitops.git
-    targetRevision: <github-branch>
+    repoURL: https://github.com/patrocinio/multi-tenancy-gitops.git
+    targetRevision: demo-mq
   syncPolicy:
     automated:
       prune: true

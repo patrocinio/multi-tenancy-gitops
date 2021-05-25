@@ -57,7 +57,7 @@ setup-job:
 
 tool-config:
   name: Artifactory
-  url: 'https://artifactory-tools.<Cluster-Domain>'
+  url: 'https://artifactory-tools.c104-e-us-east-containers-cloud-ibm-com:30449'
   privateUrl: 'http://artifactory-artifactory.tools:8082'
   username: admin
   password: password
